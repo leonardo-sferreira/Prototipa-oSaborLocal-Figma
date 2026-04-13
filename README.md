@@ -1,21 +1,3 @@
-sabor-local/
-│
-├── index.html
-├── style.css
-├── script.js
-│
-├── /assets
-│   ├── /images
-│   └── /icons
-│
-├── /screens
-│   ├── login.html
-│   ├── home.html
-│   ├── carrinho.html
-│   ├── pagamento.html
-│   ├── acompanhamento.html
-│
-└── README.md
 
 # 🍽️ Sabor Local
 
