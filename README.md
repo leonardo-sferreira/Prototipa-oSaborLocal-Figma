@@ -1,5 +1,10 @@
-# Prototipa-oSaborLocal-Figma
+# Sabor Local 🍽️
 
-index.html
-style.css
-/assets (imagens)
+App de delivery focado em culinária mineira.
+
+## Telas
+- Login
+- Home
+- Carrinho
+- Pagamento
+- Acompanhamento
