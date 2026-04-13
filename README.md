@@ -8,3 +8,8 @@ App de delivery focado em culinária mineira.
 - Carrinho
 - Pagamento
 - Acompanhamento
+
+## Ferramentas
+- Figma
+- FlutterFlow
+- Xano
